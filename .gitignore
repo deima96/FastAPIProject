@@ -1,0 +1,6 @@
+.venv
+fastapi.db
+.pytest_cache
+__pycache__
+.venv
+.idea
